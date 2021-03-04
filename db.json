@@ -1,6 +1,10 @@
 {
   "appVersion": {
-      "version": "1.1.0",
-      "forceUpdate": false
+    "version": "1.1.0",
+    "forceUpdate": false
+  },
+  "appVersionV2": {
+    "version": "1.0",
+    "forceUpdate": false
   }
 }
