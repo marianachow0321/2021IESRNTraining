@@ -6,5 +6,11 @@
   "appVersionV2": {
     "version": "1.0",
     "forceUpdate": false
-  }
+  },
+  "getCurrency": [
+    {
+      "rates": "2.0",
+      "date": "20210903"
+    }
+  ]
 }
